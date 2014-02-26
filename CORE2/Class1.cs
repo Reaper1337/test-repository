@@ -46,5 +46,10 @@ namespace CORE2
         {
             return 3;
         }
+
+        public int test7()
+        {
+            return 8;
+        }
     }
 }
